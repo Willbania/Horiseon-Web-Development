@@ -5,7 +5,10 @@ Week 1 Bootcamp Challenge
 AS A Web developer for a marketing agency
 my task is to Refactor an existing website to meet accessability standards and search engine optimisation
 
+## The Finished Application
+the finished application should resemble the mockup as deailed in the following image.
 
+![Alt text](./assets/reference.png "Reference Image")
 
 
 ## Acceptance Criteria
@@ -45,6 +48,5 @@ my task is to Refactor an existing website to meet accessability standards and s
 
 
 ## Viewing the webpage
-The web page can be viewed using the following link - Https://www.#.com
-
+The web page can be viewed [here](Https://www.https://willbania.github.io/Horiseon-Web-Development.com)
 
