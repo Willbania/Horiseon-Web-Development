@@ -48,5 +48,6 @@ the finished application should resemble the mockup as deailed in the following 
 
 
 ## Viewing the webpage
-The web page can be viewed [here](Https://willbania.github.io/Horiseon-Web-Development.com)
+The web page can be viewed [here](Https://willbania.github.io/Horiseon-Web-Development/)
+
 
